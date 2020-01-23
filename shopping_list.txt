@@ -1,4 +1,4 @@
-- milk
+- milk x 3
 - bread
 - beer
 - beef x 2
