@@ -1,4 +1,4 @@
-Create a folder on the command line and turn it into a Git project.
+Create a folder on the command line and turn it into a Git project 2.
 Create a file called "story.txt" in your project. Add a lot of text inside.
 Add another file called "shopping_list.txt" to the project, and write down what you need from the store (or just many rows of text).
 Create a subfolder called "school" into the project, and create a file called "tools.txt" inside. You will need these files in the future exercises.
