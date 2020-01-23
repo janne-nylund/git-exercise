@@ -1,3 +1,5 @@
+Greetings from my computer
+
 first line of tools.txt changed
 
 new line added
