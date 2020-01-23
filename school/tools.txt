@@ -1,2 +1,7 @@
 first line of tools.txt changed
+<<<<<<< HEAD
 new line added
+=======
+
+third line
+>>>>>>> 9de1e20950341f2c33e56e6deab2e9ebb05586a5
